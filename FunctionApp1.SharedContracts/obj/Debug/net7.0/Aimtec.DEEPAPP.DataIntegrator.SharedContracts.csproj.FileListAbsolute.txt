@@ -1,0 +1,11 @@
+C:\user\workspace\Test\FunctionApp1\Aimtec.DEEPAPP.DataIntegrator.SharedContracts\bin\Debug\net7.0\Aimtec.DEEPAPP.DataIntegrator.SharedContracts.deps.json
+C:\user\workspace\Test\FunctionApp1\Aimtec.DEEPAPP.DataIntegrator.SharedContracts\bin\Debug\net7.0\Aimtec.DEEPAPP.DataIntegrator.SharedContracts.dll
+C:\user\workspace\Test\FunctionApp1\Aimtec.DEEPAPP.DataIntegrator.SharedContracts\bin\Debug\net7.0\Aimtec.DEEPAPP.DataIntegrator.SharedContracts.pdb
+C:\user\workspace\Test\FunctionApp1\Aimtec.DEEPAPP.DataIntegrator.SharedContracts\obj\Debug\net7.0\Aimtec.DEEPAPP.DataIntegrator.SharedContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\user\workspace\Test\FunctionApp1\Aimtec.DEEPAPP.DataIntegrator.SharedContracts\obj\Debug\net7.0\Aimtec.DEEPAPP.DataIntegrator.SharedContracts.AssemblyInfoInputs.cache
+C:\user\workspace\Test\FunctionApp1\Aimtec.DEEPAPP.DataIntegrator.SharedContracts\obj\Debug\net7.0\Aimtec.DEEPAPP.DataIntegrator.SharedContracts.AssemblyInfo.cs
+C:\user\workspace\Test\FunctionApp1\Aimtec.DEEPAPP.DataIntegrator.SharedContracts\obj\Debug\net7.0\Aimtec.DEEPAPP.DataIntegrator.SharedContracts.csproj.CoreCompileInputs.cache
+C:\user\workspace\Test\FunctionApp1\Aimtec.DEEPAPP.DataIntegrator.SharedContracts\obj\Debug\net7.0\Aimtec.DEEPAPP.DataIntegrator.SharedContracts.dll
+C:\user\workspace\Test\FunctionApp1\Aimtec.DEEPAPP.DataIntegrator.SharedContracts\obj\Debug\net7.0\refint\Aimtec.DEEPAPP.DataIntegrator.SharedContracts.dll
+C:\user\workspace\Test\FunctionApp1\Aimtec.DEEPAPP.DataIntegrator.SharedContracts\obj\Debug\net7.0\Aimtec.DEEPAPP.DataIntegrator.SharedContracts.pdb
+C:\user\workspace\Test\FunctionApp1\Aimtec.DEEPAPP.DataIntegrator.SharedContracts\obj\Debug\net7.0\ref\Aimtec.DEEPAPP.DataIntegrator.SharedContracts.dll
