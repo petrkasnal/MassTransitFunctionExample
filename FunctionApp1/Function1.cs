@@ -8,7 +8,7 @@ namespace FunctionApp1
 {
     public class Function1
     {
-        const string TopicName = "functionapp1.sharedcontracts/testmessage";
+        const string TopicName = "functionapp1.sharedcontracts.messages/testmessage";
         const string SubscriptionName = "testsubforfunc";
         const string Connection = "AzureWebJobsStorage";
         private readonly IMessageReceiver _receiver;
